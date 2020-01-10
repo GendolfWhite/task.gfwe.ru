@@ -1,6 +1,8 @@
 # task.gfwe.ru
 Task Manager (TM) - Планировшик задач
+
 Тестовое задание для ООО "Digital Clouds", г. Новосибирск
+
 ТЗ: https://docs.google.com/document/d/1HYsCI2KVWBk6gzw276kveHNz6CTCVIPgJNkPmHruWqc/
 
 live demo: http://task.gfwe.ru
@@ -9,6 +11,7 @@ live demo: http://task.gfwe.ru
 Проанализировав ТЗ можно сразу нарисовать структуру базу данных.
 По возможности подвести к нормальной форме.
 
+```
 tasks [table]( // Задачи
 	id [int], // Уникальный ID задачи
 	name [varchar], // Наименование задачи
@@ -32,3 +35,4 @@ positions [table]( // Должности
 	id [int], // Уникальный ID должности
 	name [varchar], // Название должности
 );
+```
