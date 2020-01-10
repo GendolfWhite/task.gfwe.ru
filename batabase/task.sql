@@ -53,6 +53,13 @@ CREATE TABLE `statuses`  (
 ) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
 
 -- ----------------------------
+-- Records of statuses
+-- ----------------------------
+INSERT INTO `statuses` VALUES (1, 'Открыта');
+INSERT INTO `statuses` VALUES (2, 'В работе');
+INSERT INTO `statuses` VALUES (3, 'Завершена');
+
+-- ----------------------------
 -- Table structure for tasks
 -- ----------------------------
 DROP TABLE IF EXISTS `tasks`;
