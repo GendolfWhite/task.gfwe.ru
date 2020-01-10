@@ -1,13 +1,12 @@
-# task.gfwe.ru
-Task Manager (TM) - Планировшик задач
+# Task Manager (TM) - Планировшик задач
 
-Тестовое задание для ООО "Digital Clouds", г. Новосибирск
+> Тестовое задание для ООО "Digital Clouds", г. Новосибирск
 
 ТЗ: https://docs.google.com/document/d/1HYsCI2KVWBk6gzw276kveHNz6CTCVIPgJNkPmHruWqc/
 
 live demo: http://task.gfwe.ru
 
-# База данных
+## База данных
 Проанализировав ТЗ можно сразу нарисовать структуру базу данных.
 По возможности подвести к нормальной форме.
 
